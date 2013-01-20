@@ -10,3 +10,6 @@ You need (at least) the following packages to build and flash this code:
  * avr-libc
  * avrdude
 
+All code (including the makefile) in this repository is released as Public Domain.
+
+Anything remaining is CC BY-SA 3.0.

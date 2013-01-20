@@ -1,0 +1,12 @@
+Example code for an ATmega328 processor, manually using:
+ * I/O
+ * Timer
+ * Interrupts
+
+For demonstration during LCA2013.
+
+You need (at least) the following packages to build and flash this code:
+ * gcc-avr
+ * avr-libc
+ * avrdude
+

@@ -10,6 +10,8 @@ You need (at least) the following packages to build and flash this code:
  * avr-libc
  * avrdude
 
-All code (including the makefile) in this repository is released as Public Domain.
+PCB layouts for ATmega328 (etc) and ATtiny85 (etc) for easier breadboard use are also included, as well as an example PCB layout that only uses the MCU (and no supporting componentry).
+
+All code (including the makefile, and the PCB layouts) in this repository is released as Public Domain.
 
 Anything remaining is CC BY-SA 3.0.

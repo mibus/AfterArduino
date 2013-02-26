@@ -10,7 +10,7 @@ You need (at least) the following packages to build and flash this code:
  * avr-libc
  * avrdude
 
-Some distributions have an "arduino-core" package that installs the entire toolchain and library set _other_ than the IDE; you might want to use that, too.
+Some distributions have an "arduino-core" package that installs the entire toolchain and library set _other_ than the IDE; you might want to use that, too. There's also an "arduino-mk" package that contains makefile stuff that might be helpful, especially for more complicated projects.
 
 PCB layouts for ATmega328 (etc) and ATtiny85 (etc) for easier breadboard use are also included, as well as an example PCB layout that only uses the MCU (and no supporting componentry).
 
